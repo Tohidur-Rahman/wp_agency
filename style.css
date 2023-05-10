@@ -1,0 +1,29 @@
+/*
+Theme Name: Tohid Multipage Business Website
+Theme URI: https://techtohid.com/project1
+Author: Tohidur Rahman
+Author URI: https://techtohid.com/
+Description: We make multipage business website.
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tohid
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+img.avatar.avatar-74.photo {
+    width: auto !important;
+}
+
+ol.comment-list {list-style: none;}
+label {
+    display: none !important;
+}
+
+p.comment-form-cookies-consent {
+    display: none !important;
+}
